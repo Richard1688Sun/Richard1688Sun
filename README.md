@@ -19,7 +19,7 @@
 
 <h1 align="center">About Me</h1>
 
-I am a driven UBC Engineering student interested in computers and software. In my free time, I enjoy pursuing personal programming projects, cycling, playing soccer, learning about new technologies and [taking landscape photos](https://photography.eliodinino.com).
+I am an Aspiring Software Engineer with experience in Java, Python, C, and C++. Currently a second-year Computer Engineering student and the University of British Columbia.
 
 <details>
   <summary>:spiral_notepad: Read More</summary>
