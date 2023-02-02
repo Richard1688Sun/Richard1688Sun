@@ -39,36 +39,6 @@ I am a driven UBC Engineering student interested in computers and software. In m
 <!----- Projects ----->
 
 <h2 align="center">What I'm Up To</h2>
-<details>
-  <summary>:card_file_box: Past Projects</summary>
-  
-  ### :robot: [Quote Bot](https://github.com/ElioDiNino/Quote)
-  This is a rehost of [nakayoshi](https://github.com/nakayoshi)'s Discord Quote bot which was taken offline in early 2022. In the process of rehosting it I updated some of the bot's commands and patched several security vulnerabilities. A few weeks after, I also completed an overhaul of the bot with slash command support, improved error-handling, thread channel support, patched [vulnerabilities](https://github.com/nakayoshi/quote/issues/5), and other improvements. Since the overhaul, the bot has been up and running for free on Google Cloud without any issues. I continue to keep the up to date with the latest Discord.js releases.
-  
-  ### :scroll: [SSC Scripts](https://github.com/ElioDiNino/SSC-Scripts)
-  This repository is home to different scripts for pulling information off of [UBC's SSC](https://ssc.adm.ubc.ca/) and then notifying the specified emails of what new information is available. It uses [UBC's Webmail](https://webmail.student.ubc.ca/) so that any user with a [CWL](https://it.ubc.ca/services/accounts-passwords/campus-wide-login-cwl) can use the scripts without having to worry about what email service they use for their primary email. An example of one of these scripts is [`grades.py`](https://github.com/ElioDiNino/SSC-Scripts/blob/master/src/grades.py) which checks for when new grades are posted. It can check for multiple course grades at a time and has many other customizable options.
-  
-  ### :robot: [Autonomous Claw](https://github.com/ElioDiNino/Autonomous-Claw)
-  This is a collection of the programming work that went into the autonomous claw project for UBC's APSC 101. The goal of the project was to semi-autonomously pick up objects of different sizes and weights and transport them to a drop-off location accurately and efficiently.
-  
-  ### :abacus: [Harvard's CS50](https://github.com/ElioDiNino/CS50)
-  This is a collection of the code I wrote for [Harvard's CS50](https://cs50.harvard.edu/) that I am proud of and that was of interest to me. I took part in the course during the [Spring 2021 session](https://cs50.harvard.edu/college/2021/spring/).
-  
-  ### :shield: [UBC Bot](https://github.com/ElioDiNino/UBC-Bot)
-  This was my friend and I's final project for CS50. It is a basic Discord moderation bot that has a mix of different commands. It is quite basic but we used it as a way to learn about Discord.js and learn the basics for future Discord bot projects.
-  
-  ### :pencil2: [Scratch](https://scratch.mit.edu/projects/426417770)
-  This is the Scratch project I made as part of CS50's [Week 0 tasks](https://cs50.harvard.edu/college/2021/spring/psets/0/scratch/). It is a simple but fun game with randomized music and an infinite scrolling background.
-  
-  ### :snake: [Python Learning](https://github.com/ElioDiNino/Python-Learning)
-  This is a collection of the Python code I wrote for a high school programming class where we followed the lessons and tasks from [Program Arcade Games](http://programarcadegames.com/). At the end I also did a final project exploring machine learning using the [Titanic dataset](https://www.kaggle.com/c/titanic).
-  
-  ### :joystick: [OpenProcessing](https://openprocessing.org/user/143581)
-  This is a site I used as part of one of my high school programming classes. It uses [p5js](https://p5js.org/) and I used it to make a couple of different games and get experience with object-oriented programming and other common programming principles.
-  
-  ---
-  
-</details>
 
 <details open>
   <summary>:card_index_dividers: Current Projects</summary>
