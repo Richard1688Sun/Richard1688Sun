@@ -74,13 +74,13 @@ I am a driven UBC Engineering student interested in computers and software. In m
   <summary>:card_index_dividers: Current Projects</summary>
   
   ### :star: [Personal Projects]
-  #### [Mantra Counter Mobile App](https://github.com/Richard1688Sun/MantraCounter)
+  #### [:iphone:Mantra Counter Mobile App](https://github.com/Richard1688Sun/MantraCounter)
   - Developed and published on Google Play an automated counter app end-to-end using Java and Extensible Markup Language through Android Studios
   - Managed and organized app data within the SQLite database through the ROOM library
   - Worked in XML to construct a user-friendly and customizable user interface
   - Applied concepts of Object-Oriented Programming to design app’s back-end algorithm
   
-  ### [CaptionConcierge WebApp](https://github.com/afahimi/CaptionConcierge-NWHacks2023) - Hackathon(NWhacks)
+  #### [:computer:CaptionConcierge WebApp](https://github.com/afahimi/CaptionConcierge-NWHacks2023) - Hackathon(NWhacks)
   - Cooperated in a team of four, to develop a full-stack React web application that summarized YouTube videos by utilizing the power of OpenAI API
   - Created a back-end Flask Python server that transmits YouTube video captions to front-end web app via HTTP requests
   
