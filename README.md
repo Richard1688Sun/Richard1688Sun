@@ -70,7 +70,6 @@ One of my greatest strengths is my determination to persevere and my work ethic.
   -  Incorported the OpenAI model GTP-3 API to enhance summarization process without altering the original concepts
   
   ### :school: UBC Course Projects
-  <strong>*Code access is available upon request for all projects*</strong>
   
   #### [Dancing Robot](https://github.com/CPEN-291/P1_L2A_G21) - CPEN 291
   - Built and programmed a dancing robot with wireless capabilities, LED display, sonar sensor, and piezo buzzer
@@ -82,17 +81,17 @@ One of my greatest strengths is my determination to persevere and my work ethic.
   - Debugged program functionality using GDB ensuring proper pointer manipulation and memory management
   - Incorporated double linked lists to represent the order of image snippets when unscrambling
   
-  #### [Publish/Subscribe Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77) - CPEN 221
+  #### [Publish/Subscribe Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
   - Created a multi-client publish/subscribe server that fetched Twitter Tweets based on a user’s subscription preference
   - Tracked subscriber information using JSON files and applied an two-step encryption process of hashing and salting
   - Incorporated thread-safe strategies like Confinement and Synchronization to support multiple client connections
   
-  #### Simple RISC Machine - CPEN 211
+  #### Simple RISC Machine - CPEN 211 | <strong>\*Code access is available upon request\*</strong>
   - Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board in 3 weeks
   - Subdivided the machine into smaller modules to be designed, tested, and debugged more easily
   - Utilized pipelining to increase operations per cycle by 300% and go beyond course expectations
   
-  #### [Kamino Search Algorithm](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221
+  #### [Kamino Search Algorithm](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
   - Led a team of three to program an optimal graph pathfinder by integrating various graph search algorithms like Breadth First Search and Dijkstra’s Algorithm
   - Implemented different graph data structures, applying concepts of encapsulation and interfacing
   - Developed a robust test suite applying testing methods like regression, black-box , and white-box testing
