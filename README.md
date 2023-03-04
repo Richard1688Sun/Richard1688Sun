@@ -1,7 +1,7 @@
 <!----- Picture & Links ----->
 
 <p id="profile-picture" align="center">
-  <img width=30% src="https://github.com/ElioDiNino/ElioDiNino/blob/master/profile.png" alt="Profile Picture">
+  <img width=40% src="https://user-images.githubusercontent.com/112845533/222932857-83914ea4-f2c9-4de0-9f0e-d6c6bb2963fb.png">
 </p>
 
 <div id="badges" align="center">
@@ -19,20 +19,33 @@
 
 <h1 align="center">About Me</h1>
 
-I am an Aspiring Software Engineer with experience in Java, Python, C, and C++. Currently a second-year Computer Engineering student and the University of British Columbia.
+I am a second year Computer Engineering student at UBC with interests in andriod development and software development.
+
+<h3>Things I code with</h3>
+<p>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<br>
 
 <details>
-  <summary>:spiral_notepad: Read More</summary>
+  <summary>:spiral_notepad: More About Me!</summary>
   
   <br/>
   
-  One of my values is to always continue learning. To uphold this, I pursue projects that require me to learn new skills and I seek new experiences, often outside of my comfort zone. I also look to meet new people and challenge myself whenever I can. I believe that this continuous learning and seeking of challenges is important to my growth and adaptability.
-  
-  My hard-working nature and natural leadership skills make me a valuable team member who can both listen and lead if needed. Furthermore, my attention to detail and organizational skills contribute to the timely completion of high-quality deliverables. As a result of these core attributes, along with my past experiences and promising future, I was awarded full-ride scholarships to both UBC and McMaster University.
+As a software developer, I thrive on solving everyday problems with innovative solutions. My passion for creating practical applications is fueled by a constant thirst for knowledge and new experiences. I relish new challenges and opportunities to explore, as demonstrated by the diverse projects I've built.
 
+One of my greatest strengths is my determination to persevere and my work ethic. I'm a highly focused individual with a strong drive to achieve my goals. Additionally, I possess strong leadership skills and attention to detail, which make me an ideal candidate for leading projects.
   
   ## :dart: Professional Goal
-  I hope to use my current and future skills to pursue a career in the Computer Engineering field. To get there I am looking to try many different roles through co-ops and volunteering opportunities at UBC. Following this, I will seek a career that I am passionate about and one that makes a positive impact on the world.
+  I hope utilize my skills to pursue a career in Computer Engineering.
   
 </details>
 
@@ -45,22 +58,34 @@ I am an Aspiring Software Engineer with experience in Java, Python, C, and C++. 
   
   ### :star: [Personal Projects]
   #### [:iphone:Mantra Counter Mobile App](https://github.com/Richard1688Sun/MantraCounter)
-  - Developed and published on Google Play an automated counter app end-to-end using Java and Extensible Markup Language through Android Studios
-  - Managed and organized app data within the SQLite database through the ROOM library
-  - Worked in XML to construct a user-friendly and customizable user interface
-  - Applied concepts of Object-Oriented Programming to design app’s back-end algorithm
+  -  Developed end-to-end a mobile counter app with an automatic incrementing feature, and published it on Google Play
+  -  Integrated an SQLite database to achieve persistent data and became proficient writing SQL queries
+  -  Created customizable interfaces, using view components like Constraint and Relative Layout, and Recycler View objects
+  - Conducted unit and instrumental tests using JUnit and improved app functionalities through feedback from online users
+  -  Encapsulated app components using Object Oriented Programming principles and enabled users to select additional functionalities from the settings menu
   
   #### [:computer:CaptionConcierge WebApp](https://github.com/afahimi/CaptionConcierge-NWHacks2023) - Hackathon(NWhacks)
-  - Cooperated in a team of four, to develop a full-stack React web application that summarized YouTube videos by utilizing the power of OpenAI API
-  - Created a back-end Flask Python server that transmits YouTube video captions to front-end web app via HTTP requests
+  - Cooperated in a team of four to build a full-stack React web application that leveraged AI to summarize YouTube videos
+  - Utilized Python and Flask to build a back-end server that parsed and transmitted YouTube captions to front-end application via HTTP requests
+  -  Incorported the OpenAI model GTP-3 API to enhance summarization process without altering the original concepts
   
   ### :school: UBC Course Projects
-  *Code access is available upon request for all projects
+  <strong>*Code access is available upon request for all projects*</strong>
+  
+  #### [Dancing Robot](https://github.com/CPEN-291/P1_L2A_G21) - CPEN 291
+  - Built and programmed a dancing robot with wireless capabilities, LED display, sonar sensor, and piezo buzzer
+  -  Deployed backend flask python server that sent dance instructions and sequences via HTTP requests
+  - Synchronized LED display with dance movements to create pleasant viewer experience
+  
+  #### [Image Unscrambler](https://github.com/divy-07/CPSC221-PA1) - CPSC 221
+  - Applied Object Oriented Programming in C++ to unscramble chopped-up images by analysing pixel data
+  - Debugged program functionality using GDB ensuring proper pointer manipulation and memory management
+  - Incorporated double linked lists to represent the order of image snippets when unscrambling
+  
   #### [Publish/Subscribe Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77) - CPEN 221
-  - Constructed a server supporting multiple simultaneous clients capable of interacting and fetching tweets from Twitter
-  - Tracked subscriber information and applied two-step encryption when storing sensitive data in JSON files
-  - Applied thread-safe strategies on a concurrent server to prevent data races
-  - Interacted with Twitter API through Twittered library to pull select tweets based on subscriber preference
+  - Created a multi-client publish/subscribe server that fetched Twitter Tweets based on a user’s subscription preference
+  - Tracked subscriber information using JSON files and applied an two-step encryption process of hashing and salting
+  - Incorporated thread-safe strategies like Confinement and Synchronization to support multiple client connections
   
   #### Simple RISC Machine - CPEN 211
   - Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board in 3 weeks
@@ -68,10 +93,9 @@ I am an Aspiring Software Engineer with experience in Java, Python, C, and C++. 
   - Utilized pipelining to increase operations per cycle by 300% and go beyond course expectations
   
   #### [Kamino Search Algorithm](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221
-  - Collaborated in a team of three to design and develop an optimized graphical pathfinder by integrating various graphical search algorithms
-  - Developed a robust test suite for both adjacency list and adjacency matrix graph layouts
-  - Led the development of graphical programs by applying concepts of encapsulation and interfaces
-  
+  - Led a team of three to program an optimal graph pathfinder by integrating various graph search algorithms like Breadth First Search and Dijkstra’s Algorithm
+  - Implemented different graph data structures, applying concepts of encapsulation and interfacing
+  - Developed a robust test suite applying testing methods like regression, black-box , and white-box testing
 </details>
 
 <!-- <div id="language-stats" align="center">
