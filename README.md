@@ -19,7 +19,7 @@
 
 <h1 align="center">About Me</h1>
 
-I am a second year Computer Engineering student at UBC with interests in andriod development and software development.
+I am a second-year Computer Engineering student at UBC with interests in android development and software development.
 
 <h3>Things I code with</h3>
 <p>
@@ -41,8 +41,7 @@ I am a second year Computer Engineering student at UBC with interests in andriod
   <br/>
   
 As a software developer, I thrive on solving everyday problems with innovative solutions. My passion for creating practical applications is fueled by a constant thirst for knowledge and new experiences. I relish new challenges and opportunities to explore, as demonstrated by the diverse projects I've built.
-
-One of my greatest strengths is my determination to persevere and my work ethic. I'm a highly focused individual with a strong drive to achieve my goals. Additionally, I possess strong leadership skills and attention to detail, which make me an ideal candidate for leading projects.
+My greatest strengths are my determination to persevere and my work ethic. I'm a highly focused individual with a strong drive to achieve my goals. Additionally, I possess strong leadership skills and attention to detail, which make me an ideal candidate for leading projects.
   
   ## :dart: Professional Goal
   I hope utilize my skills to pursue a career in Computer Engineering.
@@ -58,32 +57,32 @@ One of my greatest strengths is my determination to persevere and my work ethic.
   
   ### :star: [Personal Projects]
   #### [:iphone:Mantra Counter Mobile App](https://github.com/Richard1688Sun/MantraCounter)
-  -  Developed end-to-end a mobile counter app with an automatic incrementing feature, and published it on Google Play
-  -  Integrated an SQLite database to achieve persistent data and became proficient writing SQL queries
+  -  Developed end-to-end mobile counter app with an automatic incrementing feature, and published it on Google Play
+  -  Integrated an SQLite database to achieve persistent data and became proficient in writing SQL queries
   -  Created customizable interfaces, using view components like Constraint and Relative Layout, and Recycler View objects
   - Conducted unit and instrumental tests using JUnit and improved app functionalities through feedback from online users
   -  Encapsulated app components using Object Oriented Programming principles and enabled users to select additional functionalities from the settings menu
   
   #### [:computer:CaptionConcierge WebApp](https://github.com/afahimi/CaptionConcierge-NWHacks2023) - Hackathon(NWhacks)
-  - Cooperated in a team of four to build a full-stack React web application that leveraged AI to summarize YouTube videos
+  - Cooperated with a team of four to build a full-stack React web application that leveraged AI to summarize YouTube videos
   - Utilized Python and Flask to build a back-end server that parsed and transmitted YouTube captions to front-end application via HTTP requests
-  -  Incorported the OpenAI model GTP-3 API to enhance summarization process without altering the original concepts
+  -  Incorporated the OpenAI model GTP-3 API to enhance the summarization process without altering the original concepts
   
   ### :school: UBC Course Projects
   
   #### [Dancing Robot](https://github.com/CPEN-291/P1_L2A_G21) - CPEN 291
   - Built and programmed a dancing robot with wireless capabilities, LED display, sonar sensor, and piezo buzzer
   -  Deployed backend flask python server that sent dance instructions and sequences via HTTP requests
-  - Synchronized LED display with dance movements to create pleasant viewer experience
+  - Synchronized LED display with dance movements to create a pleasant viewer experience
   
   #### [Image Unscrambler](https://github.com/divy-07/CPSC221-PA1) - CPSC 221
-  - Applied Object Oriented Programming in C++ to unscramble chopped-up images by analysing pixel data
+  - Applied Object Oriented Programming in C++ to unscramble chopped-up images by analyzing pixel data
   - Debugged program functionality using GDB ensuring proper pointer manipulation and memory management
-  - Incorporated double linked lists to represent the order of image snippets when unscrambling
+  - Incorporated double-linked lists to represent the order of image snippets when unscrambling
   
   #### [Publish/Subscribe Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
   - Created a multi-client publish/subscribe server that fetched Twitter Tweets based on a user’s subscription preference
-  - Tracked subscriber information using JSON files and applied an two-step encryption process of hashing and salting
+  - Tracked subscriber information using JSON files and applied a two-step encryption process of hashing and salting
   - Incorporated thread-safe strategies like Confinement and Synchronization to support multiple client connections
   
   #### Simple RISC Machine - CPEN 211 | <strong>\*Code access is available upon request\*</strong>
@@ -94,7 +93,7 @@ One of my greatest strengths is my determination to persevere and my work ethic.
   #### [Kamino Search Algorithm](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
   - Led a team of three to program an optimal graph pathfinder by integrating various graph search algorithms like Breadth First Search and Dijkstra’s Algorithm
   - Implemented different graph data structures, applying concepts of encapsulation and interfacing
-  - Developed a robust test suite applying testing methods like regression, black-box , and white-box testing
+  - Developed a robust test suite applying testing methods like regression, black-box, and white-box testing
 </details>
 
 <!-- <div id="language-stats" align="center">
