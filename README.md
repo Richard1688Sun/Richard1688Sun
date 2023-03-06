@@ -15,11 +15,11 @@
 
 <br/>
 
-<!----- About Me ----->
+<!----- Intro ----->
 
-<h1 align="center">About Me</h1>
+<h1 align="center">Hi! I am Richard Sun, I am a...</h1>
 
-I am a second-year Computer Engineering student at UBC with interests in android development and software development.
+second-year Computer Engineering student at UBC with interests in android development and software development.
 
 <h3>Things I code with</h3>
 <p>
@@ -68,35 +68,31 @@ My greatest strengths are my determination to persevere and my work ethic. I'm a
   - Utilized Python and Flask to build a back-end server that parsed and transmitted YouTube captions to front-end application via HTTP requests
   -  Incorporated the OpenAI model GTP-3 API to enhance the summarization process without altering the original concepts
   
-  ### :school: UBC Course Projects
+  ### :school: UBC Projects
   
-  #### [Dancing Robot](https://github.com/CPEN-291/P1_L2A_G21) - CPEN 291
+  #### Dancing Robot - CPEN 291 | <strong>\*Code access is available upon request\*</strong>
   - Built and programmed a dancing robot with wireless capabilities, LED display, sonar sensor, and piezo buzzer
   -  Deployed backend flask python server that sent dance instructions and sequences via HTTP requests
   - Synchronized LED display with dance movements to create a pleasant viewer experience
   
-  #### [Image Unscrambler](https://github.com/divy-07/CPSC221-PA1) - CPSC 221
+  #### Image Unscrambler - CPSC 221 | <strong>\*Code access is available upon request\*</strong>
   - Applied Object Oriented Programming in C++ to unscramble chopped-up images by analyzing pixel data
   - Debugged program functionality using GDB ensuring proper pointer manipulation and memory management
   - Incorporated double-linked lists to represent the order of image snippets when unscrambling
   
-  #### [Publish/Subscribe Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
+  #### [Publish/Subscribe Server](https://cpen-221ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-cf6d3320be70407293600916daec344b) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
   - Created a multi-client publish/subscribe server that fetched Twitter Tweets based on a user’s subscription preference
   - Tracked subscriber information using JSON files and applied a two-step encryption process of hashing and salting
   - Incorporated thread-safe strategies like Confinement and Synchronization to support multiple client connections
   
-  #### Simple RISC Machine - CPEN 211 | <strong>\*Code access is available upon request\*</strong>
-  - Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board in 3 weeks
-  - Subdivided the machine into smaller modules to be designed, tested, and debugged more easily
-  - Utilized pipelining to increase operations per cycle by 300% and go beyond course expectations
+  #### RISC Machine - CPEN 211 | <strong>\*Code access is available upon request\*</strong>
+  - Designed functional CPU with datapath, controller FSM, and RAM/Regiser modules in System Verilog
+  - Conducted modular testing by observing signal wave-forms on ModelSim and analyzed hardware timings using Quartus
+  - Wrote a clock-cycle-independent testbench to assess different Controller implementations
   
-  #### [Kamino Search Algorithm](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
+  #### [Kamino Search Algorithm](https://cpen-221ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-96adb378cebc4899831015425d5a3005) - CPEN 221 | <strong>\*Code access is available upon request\*</strong>
   - Led a team of three to program an optimal graph pathfinder by integrating various graph search algorithms like Breadth First Search and Dijkstra’s Algorithm
   - Implemented different graph data structures, applying concepts of encapsulation and interfacing
   - Developed a robust test suite applying testing methods like regression, black-box, and white-box testing
 </details>
-
-<!-- <div id="language-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElioDiNino&layout=compact&langs_count=6&bg_color=22242d&hide_border=true&text_color=c9d1d9&title_color=c9d1d9">
-</div> -->
 
