@@ -71,6 +71,7 @@ My greatest strengths are my determination to persevere and my work ethic. I'm a
     </ul>
   </details>
   
+  <br>
   <h2>:school: UBC Projects - *Code access is available upon request*</h2>
   
   <details> <summary> <h3>:robot::Dancing Robot - CPEN 291 </h3></summary>
