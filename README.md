@@ -74,7 +74,22 @@ My greatest strengths are my determination to persevere and my work ethic. I'm a
   <br>
   <h2>:school: UBC Projects - *Code access is available upon request*</h2>
   
-  <details> <summary> <h3>:robot::Dancing Robot - CPEN 291 </h3></summary>
+  <details> <summary> <h3>:video_game:Motion Controlled Web-Games - CPEN 291 </h3></summary>
+      &nbsp&nbsp&nbsp<a>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img alt"VScode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    </a>
+    <ul>
+      <li>Built a full-stack React.js website with Redux state management to host and control web games via Kinect Controller</li>
+      <li>Deployed backend server on virtual machine, utilizing HTTP requests for communication and MongoDB for storage</li>
+      <li>Developed an engaging Snake Game with multiple game modes, user score tracking, and leaderboard functionality</li>
+    </ul>
+  </details>
+  
+  <details> <summary> <h3>:robot:Dancing Robot - CPEN 291 </h3></summary>
       &nbsp&nbsp&nbsp<a>
       <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
