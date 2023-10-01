@@ -9,7 +9,7 @@
 
 <h1>:wave:Hi! I am Richard Sun, and I am a...</h1>
 
-<a align="center">second-year Computer Engineering student at UBC with interests in android development and software development </a>
+<a align="center">third-year Computer Engineering student at UBC with interests in android mobile development and software development </a>
 
 <h3>Things I code with are...</h3>
 <p>
