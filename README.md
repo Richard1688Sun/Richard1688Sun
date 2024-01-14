@@ -51,6 +51,7 @@ My greatest strengths are my determination to persevere and my work ethic. I'm a
       <img alt"Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
     </a>
     <p>Embarked on the development of a unique Android app that serves as more than just a counter. This mobile application, designed for tracking mantra recitations, introduces an automatic incrementing feature for added convenience. Utilizing Object-Oriented Programming principles, the app allows users to personalize their experience. The app's data is seamlessly organized in an SQLite database, showcasing proficiency in SQL queries. Through user feedback, we fine-tuned the user interface, resulting in a sleek and user-friendly design with a touch of Material Design Components. If you're interested checkout the <a href="https://github.com/Richard1688Sun/MantraCounter" target="_blank">Github Repository</a></p>
+    <p>Download the app from Google Play <a href="https://play.google.com/store/apps/details?id=com.nemogz.mantracounter" target="_blank">here</a></p>
     
   </details>
   
