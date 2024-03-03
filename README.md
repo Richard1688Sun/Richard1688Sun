@@ -68,7 +68,8 @@ My greatest strengths are my determination to persevere and my work ethic. I'm a
     </a>
     <p>Collaborated within a dynamic team of four to create an innovative full-stack React web application. This project's focal point was harnessing the power of AI to generate concise summaries of YouTube videos. I took charge of constructing a robust back-end server using Python and Flask, facilitating the seamless parsing and transmission of YouTube captions to the front-end application through HTTP requests. The application's summarization prowess was elevated with the integration of the OpenAI model GPT-3 API, ensuring a sophisticated and concept-preserving summarization process. For a deeper dive into our project, check out the <a href="https://github.com/afahimi/CaptionConcierge-NWHacks2023" target="_blank">Github Repository</a></p>
   </details>
-  
+
+  <br>
   <h3>:school: UBC Projects - *Code access is available upon request*</h3>
   
   <details> <summary> <b>:video_game:Gesture Controller & Browser Games - CPEN 291 </b></summary>
